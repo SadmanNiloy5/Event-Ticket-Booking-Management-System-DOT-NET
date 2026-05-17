@@ -1,0 +1,147 @@
+﻿@model BLL.DTOs.EventDTO
+
+@{
+    ViewData["Title"] = "Edit Event";
+}
+
+<div class="container mt-5">
+
+    <div class="row justify-content-center">
+
+        <div class="col-md-8">
+
+            <div class="card shadow-lg border-0 rounded-4">
+
+                <div class="card-header bg-warning text-dark text-center rounded-top-4">
+                    <h2>Edit Event</h2>
+                </div>
+
+                <div class="card-body p-4">
+
+                    <form method="post">
+
+                        <input asp-for="Id" hidden />
+
+                        <div class="mb-3">
+
+                            <label>Event Name</label>
+
+                            <input asp-for="Name"
+                                   class="form-control" />
+
+                            <span asp-validation-for="Name"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Location</label>
+
+                            <input asp-for="Location"
+                                   class="form-control" />
+
+                            <span asp-validation-for="Location"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Event Date</label>
+
+                            <input asp-for="EventDate"
+                                   type="date"
+                                   class="form-control" />
+
+                            <span asp-validation-for="EventDate"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Ticket Price</label>
+
+                            <input asp-for="TicketPrice"
+                                   class="form-control" />
+
+                            <span asp-validation-for="TicketPrice"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Total Seats</label>
+
+                            <input asp-for="TotalSeats"
+                                   class="form-control" />
+
+                            <span asp-validation-for="TotalSeats"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Available Seats</label>
+
+                            <input asp-for="AvailableSeats"
+                                   class="form-control" />
+
+                            <span asp-validation-for="AvailableSeats"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Status</label>
+
+                            <select asp-for="Status"
+                                    class="form-select">
+
+                                <option>Available</option>
+
+                                <option>Upcoming</option>
+
+                                <option>Sold Out</option>
+
+                            </select>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Description</label>
+
+                            <textarea asp-for="Description"
+                                      class="form-control"
+                                      rows="4"></textarea>
+
+                        </div>
+
+                        <div class="d-grid">
+
+                            <input type="submit"
+                                   value="Update Event"
+                                   class="btn btn-warning" />
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,150 @@
+﻿@model List<BLL.DTOs.EventDTO>
+
+@{
+    ViewData["Title"] = "Events";
+}
+
+<div class="container mt-5">
+
+    <div class="card shadow-lg border-0 rounded-4">
+
+        <div class="card-header bg-dark text-white rounded-top-4 d-flex justify-content-between align-items-center">
+
+            <h2>All Events</h2>
+
+            <a asp-action="Create"
+               class="btn btn-light">
+
+                Create Event
+
+            </a>
+
+        </div>
+
+        <div class="card-body">
+
+            @if (TempData["msg"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["msg"]
+                </div>
+            }
+
+            <form method="post"
+                  asp-action="Search"
+                  class="row mb-4">
+
+                <div class="col-md-10">
+
+                    <input type="text"
+                           name="txt"
+                           class="form-control"
+                           placeholder="Search Event By Name..." />
+
+                </div>
+
+                <div class="col-md-2">
+
+                    <input type="submit"
+                           value="Search"
+                           class="btn btn-primary w-100" />
+
+                </div>
+
+            </form>
+
+            <table class="table table-bordered table-hover text-center align-middle">
+
+                <thead class="table-dark">
+
+                    <tr>
+
+                        <th>Name</th>
+
+                        <th>Location</th>
+
+                        <th>Date</th>
+
+                        <th>Ticket Price</th>
+
+                        <th>Available Seats</th>
+
+                        <th>Status</th>
+
+                        <th>Action</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    @foreach (var e in Model)
+                    {
+                        <tr>
+
+                            <td>@e.Name</td>
+
+                            <td>@e.Location</td>
+
+                            <td>@e.EventDate</td>
+
+                            <td>
+
+                                <span class="badge bg-success">
+                                    @e.TicketPrice TK
+                                </span>
+
+                            </td>
+
+                            <td>@e.AvailableSeats</td>
+
+                            <td>
+
+                                @if (e.Status == "Sold Out")
+                                {
+                                    <span class="badge bg-danger">
+                                        Sold Out
+                                    </span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-primary">
+                                        Available
+                                    </span>
+                                }
+
+                            </td>
+
+                            <td>
+
+                                <a asp-action="Edit"
+                                   asp-route-id="@e.Id"
+                                   class="btn btn-warning btn-sm">
+
+                                    Edit
+
+                                </a>
+
+                                <a asp-action="Delete"
+                                   asp-route-id="@e.Id"
+                                   class="btn btn-danger btn-sm">
+
+                                    Delete
+
+                                </a>
+
+                            </td>
+
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>

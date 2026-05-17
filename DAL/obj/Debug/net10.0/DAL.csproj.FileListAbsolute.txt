@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\bin\Debug\net10.0\DAL.deps.json
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\bin\Debug\net10.0\DAL.dll
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\bin\Debug\net10.0\DAL.pdb
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\DAL.dll
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\refint\DAL.dll
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\DAL.pdb
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\DAL\obj\Debug\net10.0\ref\DAL.dll

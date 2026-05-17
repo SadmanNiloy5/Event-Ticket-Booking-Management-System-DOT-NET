@@ -1,0 +1,96 @@
+﻿@model BLL.DTOs.BookingDTO
+
+@{
+    ViewData["Title"] = "Book Ticket";
+}
+
+<div class="container mt-5">
+
+    <div class="row justify-content-center">
+
+        <div class="col-md-6">
+
+            <div class="card shadow-lg border-0 rounded-4">
+
+                <div class="card-header bg-success text-white text-center rounded-top-4">
+                    <h2>Book Event Ticket</h2>
+                </div>
+
+                <div class="card-body p-4">
+
+                    @if (TempData["msg"] != null)
+                    {
+                        <div class="alert alert-info">
+                            @TempData["msg"]
+                        </div>
+                    }
+
+                    <form method="post">
+
+                        <div class="mb-3">
+
+                            <label>Select Event</label>
+
+                            <select asp-for="EventId"
+                                    class="form-select">
+
+                                @foreach (var e in ViewBag.Events)
+                                {
+                                    <option value="@e.Id">
+                                        @e.Name - @e.Location
+                                    </option>
+                                }
+
+                            </select>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>User Id</label>
+
+                            <input asp-for="UserId"
+                                   class="form-control"
+                                   placeholder="Enter User Id" />
+
+                            <span asp-validation-for="UserId"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Seat Count</label>
+
+                            <input asp-for="SeatCount"
+                                   class="form-control"
+                                   placeholder="Enter Seat Count" />
+
+                            <span asp-validation-for="SeatCount"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="d-grid">
+
+                            <input type="submit"
+                                   value="Book Now"
+                                   class="btn btn-success" />
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

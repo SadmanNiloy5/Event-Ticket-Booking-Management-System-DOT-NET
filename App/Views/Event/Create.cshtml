@@ -1,0 +1,151 @@
+﻿@model BLL.DTOs.EventDTO
+
+@{
+    ViewData["Title"] = "Create Event";
+}
+
+<div class="container mt-5">
+
+    <div class="row justify-content-center">
+
+        <div class="col-md-8">
+
+            <div class="card shadow-lg border-0 rounded-4">
+
+                <div class="card-header bg-primary text-white text-center rounded-top-4">
+                    <h2>Create Event</h2>
+                </div>
+
+                <div class="card-body p-4">
+
+                    <form method="post">
+
+                        <div class="mb-3">
+
+                            <label>Event Name</label>
+
+                            <input asp-for="Name"
+                                   class="form-control"
+                                   placeholder="Enter Event Name" />
+
+                            <span asp-validation-for="Name"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Location</label>
+
+                            <input asp-for="Location"
+                                   class="form-control"
+                                   placeholder="Enter Location" />
+
+                            <span asp-validation-for="Location"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Event Date</label>
+
+                            <input asp-for="EventDate"
+                                   type="date"
+                                   class="form-control" />
+
+                            <span asp-validation-for="EventDate"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Ticket Price</label>
+
+                            <input asp-for="TicketPrice"
+                                   class="form-control"
+                                   placeholder="Enter Ticket Price" />
+
+                            <span asp-validation-for="TicketPrice"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Total Seats</label>
+
+                            <input asp-for="TotalSeats"
+                                   class="form-control"
+                                   placeholder="Enter Total Seats" />
+
+                            <span asp-validation-for="TotalSeats"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Available Seats</label>
+
+                            <input asp-for="AvailableSeats"
+                                   class="form-control"
+                                   placeholder="Enter Available Seats" />
+
+                            <span asp-validation-for="AvailableSeats"
+                                  class="text-danger"></span>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Status</label>
+
+                            <select asp-for="Status"
+                                    class="form-select">
+
+                                <option>Available</option>
+
+                                <option>Upcoming</option>
+
+                                <option>Sold Out</option>
+
+                            </select>
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Description</label>
+
+                            <textarea asp-for="Description"
+                                      class="form-control"
+                                      rows="4"
+                                      placeholder="Enter Description"></textarea>
+
+                        </div>
+
+                        <div class="d-grid">
+
+                            <input type="submit"
+                                   value="Create Event"
+                                   class="btn btn-primary" />
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
