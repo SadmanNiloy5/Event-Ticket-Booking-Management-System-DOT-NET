@@ -8,13 +8,13 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<EventTicketBookingDbContext>();
 
-builder.Services.AddScoped<EventRepo>();
-builder.Services.AddScoped<BookingRepo>();
-builder.Services.AddScoped<UserRepo>();
+     builder.Services.AddScoped<EventRepo>();
+    builder.Services.AddScoped<BookingRepo>();
+   builder.Services.AddScoped<UserRepo>();
 
-builder.Services.AddScoped<EventService>();
-builder.Services.AddScoped<BookingService>();
-builder.Services.AddScoped<UserService>();
+  builder.Services.AddScoped<EventService>();
+  builder.Services.AddScoped<BookingService>();
+ builder.Services.AddScoped<UserService>();
 
 builder.Services.AddSession();
 

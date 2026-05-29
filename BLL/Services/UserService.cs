@@ -9,36 +9,36 @@ namespace BLL.Services
     {
         UserRepo repo;
 
-        Mapper mapper;
+          Mapper mapper;
 
         public UserService(UserRepo repo)
         {
-            this.repo = repo;
-
-            mapper = MapperConfig.GetMapper();
+              this.repo = repo;
+ 
+               mapper = MapperConfig.GetMapper();
         }
 
         public bool Register(RegisterDTO u)
         {
-            var converted = mapper.Map<User>(u);
+              var converted = mapper.Map<User>(u);
 
             converted.Role = "User";
 
-            return repo.Create(converted);
+              return repo.Create(converted);
         }
 
         public UserDTO Login(LoginDTO u)
         {
-            var data = repo.Authenticate(u.Email, u.Password);
+              var data = repo.Authenticate(u.Email, u.Password);
 
             var res = mapper.Map<UserDTO>(data);
 
-            return res;
+             return res;
         }
 
         public List<UserDTO> Get()
         {
-            var data = repo.Get();
+               var data = repo.Get();
 
             var res = mapper.Map<List<UserDTO>>(data);
 

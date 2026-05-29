@@ -14,13 +14,13 @@ namespace App.Controllers
         }
 
         [HttpGet]
-        public IActionResult Register()
+           public IActionResult Register()
         {
             return View(new RegisterDTO());
         }
 
-        [HttpPost]
-        public IActionResult Register(RegisterDTO u)
+         [HttpPost]
+           public IActionResult Register(RegisterDTO u)
         {
             if (ModelState.IsValid)
             {
@@ -35,8 +35,8 @@ namespace App.Controllers
             return View(u);
         }
 
-        [HttpGet]
-        public IActionResult Login()
+         [HttpGet]
+            public IActionResult Login()
         {
             return View(new LoginDTO());
         }
@@ -46,25 +46,25 @@ namespace App.Controllers
         {
             if (ModelState.IsValid)
             {
-                var data = userService.Login(u);
+                 var data = userService.Login(u);
 
                 if (data != null)
                 {
-                    HttpContext.Session.SetString("UserName", data.Name!);
+                       HttpContext.Session.SetString("UserName", data.Name!);
 
-                    HttpContext.Session.SetString("Role", data.Role!);
+                      HttpContext.Session.SetString("Role", data.Role!);
 
                     HttpContext.Session.SetInt32("UserId", data.Id);
 
                     if (data.Role != null && data.Role.Equals("Admin"))
                     {
-                        return RedirectToAction("Index", "Dashboard");
+                           return RedirectToAction("Index", "Dashboard");
                     }
 
                     return RedirectToAction("Index", "Event");
                 }
 
-                TempData["msg"] = "Invalid Email or Password";
+                 TempData["msg"] = "Invalid Email or Password";
             }
 
             return View(u);

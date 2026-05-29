@@ -3,152 +3,140 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\ef\\tables\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\ef\\eventticketbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\eventticketbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\ef\\tables\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\repos\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\ef\\eventticketbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\eventticketbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\lenovo\\source\\repos\\event ticket booking \u0026 management system\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,123 +146,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EventTicketBookingDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\EventTicketBookingDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\EventTicketBookingDbContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\EventTicketBookingDbContext.cs",
-              "RelativeToolTip": "DAL\\EF\\EventTicketBookingDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:55:10.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\User.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\User.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:55:20.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\EventController.cs",
-              "RelativeToolTip": "App\\Controllers\\EventController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:47:44.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Services\\UserService.cs",
               "RelativeToolTip": "BLL\\Services\\UserService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:38:49.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Create.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Event\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Create.cshtml",
-              "RelativeToolTip": "App\\Views\\Event\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T16:12:04.333Z",
+              "WhenOpened": "2026-05-18T22:00:25.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EventService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Services\\EventService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\EventService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Services\\EventService.cs",
-              "RelativeToolTip": "BLL\\Services\\EventService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "App\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:36:43.839Z",
+              "WhenOpened": "2026-05-19T04:57:19.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "App\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "App\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:54:21.989Z",
+              "WhenOpened": "2026-05-19T07:58:10.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "App\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T16:09:54.209Z",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\Booking.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Booking.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\Booking.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:55:00.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\RegisterDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\BookingDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BookingDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:01:08.338Z",
+              "WhenOpened": "2026-05-16T14:59:26.761Z",
               "EditorCaption": ""
             },
             {
@@ -285,46 +221,46 @@
               "RelativeDocumentMoniker": "BLL\\Services\\BookingService.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Services\\BookingService.cs",
               "RelativeToolTip": "BLL\\Services\\BookingService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:37:59.978Z",
+              "WhenOpened": "2026-05-19T08:45:28.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\Event.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Event.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\Event.cs",
               "RelativeToolTip": "DAL\\EF\\Tables\\Event.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T14:55:15.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\Booking.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Booking.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\Booking.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\Booking.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\Tables\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:55:00.6Z",
+              "WhenOpened": "2026-05-16T14:55:20.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\UserDTO.cs",
               "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T14:59:54.433Z",
               "EditorCaption": ""
@@ -332,214 +268,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:32:12.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "App\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "App\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:24:45.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "App\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T18:37:40.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "App\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:04:35.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\EventController.cs",
+              "RelativeToolTip": "App\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:47:44.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "EventDTO.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\EventDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\EventDTO.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\EventDTO.cs",
               "RelativeToolTip": "BLL\\DTOs\\EventDTO.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T14:58:28.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\LoginDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:00:38.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "App\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T16:04:40.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "App\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwEYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:51:02.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "App\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAA9wAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:49:24.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "App\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-17T10:05:33.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Edit.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Event\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Edit.cshtml",
-              "RelativeToolTip": "App\\Views\\Event\\Edit.cshtml",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAQwJIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T16:12:38.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Booking\\Delete.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Booking\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Booking\\Delete.cshtml",
-              "RelativeToolTip": "App\\Views\\Booking\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-17T10:01:25.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "App\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAQwHAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T16:15:06.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Index.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Event\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Index.cshtml",
-              "RelativeToolTip": "App\\Views\\Event\\Index.cshtml",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAQwIwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T16:10:42.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Delete.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Event\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Delete.cshtml",
-              "RelativeToolTip": "App\\Views\\Event\\Delete.cshtml",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAqwD8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T16:13:11.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Booking\\Index.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Booking\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Booking\\Index.cshtml",
-              "RelativeToolTip": "App\\Views\\Booking\\Index.cshtml",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAQwHoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T16:14:23.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Booking\\Create.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Booking\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Booking\\Create.cshtml",
-              "RelativeToolTip": "App\\Views\\Booking\\Create.cshtml",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAQwF8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T16:13:55.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "BookingDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\BookingDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\BookingDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\BookingDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\BookingDTO.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:59:26.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MapperConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\MapperConfig.cs",
-              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\MapperConfig.cs",
-              "RelativeToolTip": "BLL\\MapperConfig.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:31:08.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BookingRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\BookingRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\BookingRepo.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\BookingRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\BookingRepo.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:16:27.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\HomeController.cs",
@@ -552,55 +358,142 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\UserRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\UserRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "EventTicketBookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\EventTicketBookingDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\EventTicketBookingDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\EF\\EventTicketBookingDbContext.cs",
+              "RelativeToolTip": "DAL\\EF\\EventTicketBookingDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:17:12.709Z"
+              "WhenOpened": "2026-05-16T14:55:10.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "EventRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\EventRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\EventRepo.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\EventRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\EventRepo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAASwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T15:05:27.037Z"
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T16:10:42.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Delete.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Event\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Delete.cshtml",
+              "RelativeToolTip": "App\\Views\\Event\\Delete.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T16:13:11.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Program.cs",
               "RelativeDocumentMoniker": "App\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Program.cs",
               "RelativeToolTip": "App\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T15:52:16.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Class1.cs",
-              "RelativeToolTip": "BLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:41:52.909Z"
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "App\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T16:12:38.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:41:25.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T10:05:33.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:00:38.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:31:08.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:01:08.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T16:15:06.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\appsettings.json",
               "RelativeDocumentMoniker": "App\\appsettings.json",
@@ -612,7 +505,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:41:52.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "App.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\App.csproj",
               "RelativeDocumentMoniker": "App\\App.csproj",
@@ -621,18 +526,142 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-05-16T14:42:00.346Z"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ec450bfa-259c-4758-b55e-3745ecd3140f",
+        "Display": 0,
+        "X": 546,
+        "Y": 14,
+        "Width": 482,
+        "Height": 762,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Class1.cs",
-              "RelativeToolTip": "DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BookingRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\BookingRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:41:25.295Z"
+              "WhenOpened": "2026-05-19T05:28:19.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "1ed8a1df-d3c4-4d23-b56b-bb30c0a83e43",
+        "Display": 0,
+        "X": 705,
+        "Y": 248,
+        "Width": 530,
+        "Height": 388,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\BLL\\Services\\EventService.cs",
+              "RelativeToolTip": "BLL\\Services\\EventService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:27:55.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "69f59172-fa7b-4d47-aeba-0f90d3c0c216",
+        "Display": 0,
+        "X": 643,
+        "Y": 0,
+        "Width": 534,
+        "Height": 686,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\EventRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\EventRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\DAL\\Repos\\EventRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\EventRepo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:25:41.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "09290421-5b78-4756-8f1b-cb4af1a99858",
+        "Display": 0,
+        "X": 690,
+        "Y": 100,
+        "Width": 637,
+        "Height": 582,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Event Ticket Booking \u0026 Management System\\App\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "App\\Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAYwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T16:12:04.333Z",
+              "EditorCaption": ""
             }
           ]
         }

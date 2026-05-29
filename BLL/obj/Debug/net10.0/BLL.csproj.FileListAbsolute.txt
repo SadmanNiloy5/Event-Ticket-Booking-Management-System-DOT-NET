@@ -13,3 +13,4 @@ C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\BLL\obj\De
 C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\BLL\obj\Debug\net10.0\refint\BLL.dll
 C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\BLL\obj\Debug\net10.0\BLL.pdb
 C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\BLL\obj\Debug\net10.0\ref\BLL.dll
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\BLL\obj\Debug\net10.0\BLL.sourcelink.json

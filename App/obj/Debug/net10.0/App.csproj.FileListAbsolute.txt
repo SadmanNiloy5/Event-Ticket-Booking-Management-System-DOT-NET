@@ -228,3 +228,4 @@ C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\App\obj\De
 C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\App\obj\Debug\net10.0\ref\App.dll
 C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\App\bin\Debug\net10.0\AutoMapper.dll
 C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\App\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\source\repos\Event Ticket Booking & Management System\App\obj\Debug\net10.0\App.sourcelink.json

@@ -8,7 +8,7 @@ namespace App.Controllers
     {
         BookingService bookingService;
 
-        EventService eventService;
+         EventService eventService;
 
         public BookingController
         (
@@ -18,70 +18,70 @@ namespace App.Controllers
         {
             this.bookingService = bookingService;
 
-            this.eventService = eventService;
+             this.eventService = eventService;
         }
 
         [HttpGet]
-        public IActionResult Create()
+             public IActionResult Create()
         {
             ViewBag.Events = eventService.Get();
 
-            return View(new BookingDTO());
+              return View(new BookingDTO());
         }
 
         [HttpPost]
         public IActionResult Create(BookingDTO b)
         {
-            if (ModelState.IsValid)
+               if (ModelState.IsValid)
             {
-                var res = bookingService.Create(b);
+                 var res = bookingService.Create(b);
 
-                if (res == true)
+                 if (res == true)
                 {
                     TempData["msg"] = "Booking Successful";
 
-                    return RedirectToAction("Index");
+                        return RedirectToAction("Index");
                 }
                 else
                 {
-                    TempData["msg"] = "Seats Not Available";
+                      TempData["msg"] = "Seats Not Available";
                 }
             }
 
-            ViewBag.Events = eventService.Get();
+               ViewBag.Events = eventService.Get();
 
-            return View(b);
+              return View(b);
         }
 
-        public IActionResult Index()
+           public IActionResult Index()
         {
             var data = bookingService.Get();
 
-            return View(data);
+               return View(data);
         }
 
         [HttpGet]
-        public IActionResult Delete(int id)
+          public IActionResult Delete(int id)
         {
-            var data = bookingService.Get(id);
+              var data = bookingService.Get(id);
 
             return View(data);
         }
 
         [HttpPost]
-        public IActionResult Delete(int id, string Decision)
+            public IActionResult Delete(int id, string Decision)
         {
-            if (Decision.Equals("Yes"))
+                if (Decision.Equals("Yes"))
             {
                 var res = bookingService.Delete(id);
 
                 if (res == true)
                 {
-                    return RedirectToAction("Index");
+                     return RedirectToAction("Index");
                 }
             }
 
-            return RedirectToAction("Index");
+             return RedirectToAction("Index");
         }
     }
 }

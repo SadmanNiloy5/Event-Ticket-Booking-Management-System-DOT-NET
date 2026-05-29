@@ -10,50 +10,51 @@ namespace BLL.Services
         EventRepo repo;
         Mapper mapper;
 
-        public EventService(EventRepo repo)
+          public EventService(EventRepo repo)
         {
             this.repo = repo;
-
-            mapper = MapperConfig.GetMapper();
+ 
+              mapper = MapperConfig.GetMapper();
         }
 
-        public List<EventDTO> Get()
+          public List<EventDTO> Get()
         {
             var data = repo.Get();
 
-            var res = mapper.Map<List<EventDTO>>(data);
+               var res = mapper.Map<List<EventDTO>>(data);
 
             return res;
         }
 
-        public EventDTO Get(int id)
+         public EventDTO Get(int id)
         {
-            var data = repo.Get(id);
+               var data = repo.Get(id);
 
             var res = mapper.Map<EventDTO>(data);
 
-            return res;
+             return res;
         }
 
         public bool Create(EventDTO e)
         {
-            var converted = mapper.Map<Event>(e);
+              var converted = mapper.Map<Event>(e);
 
             return repo.Create(converted);
         }
 
         public bool Update(EventDTO e)
         {
-            var converted = mapper.Map<Event>(e);
+              var converted = mapper.Map<Event>(e);
 
             return repo.Update(converted);
         }
 
-        public bool Delete(int id)
+         public bool Delete(int id)
         {
-            return repo.Delete(id);
+             return repo.Delete(id);
         }
 
+        /*
         public List<EventDTO> Search(string txt)
         {
             var data = repo.Search(txt);
@@ -62,5 +63,16 @@ namespace BLL.Services
 
             return res;
         }
+        */
+
+         public List<EventDTO> Search(string txt)
+        {
+            var data = repo.Search(txt);
+
+               var res = mapper.Map<List<EventDTO>>(data);
+
+             return res;
+        }
+
     }
 }

@@ -13,7 +13,7 @@ namespace BLL.DTOs
         public int EventId { get; set; }
 
         [Required]
-        [Range(1, 10)]
+        [Range(1, 1000000000)]
         public int SeatCount { get; set; }
 
         public double TotalAmount { get; set; }

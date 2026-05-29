@@ -22,26 +22,26 @@ namespace App.Controllers
 
         public IActionResult Index()
         {
-            var role = HttpContext.Session.GetString("Role");
+               var role = HttpContext.Session.GetString("Role");
 
             if (role == null || !role.Equals("Admin"))
             {
                 return RedirectToAction("Login", "Account");
             }
 
-            var events = eventService.Get();
+                var events = eventService.Get();
 
             var bookings = bookingService.Get();
 
-            ViewBag.TotalEvents = events.Count();
+                   ViewBag.TotalEvents = events.Count();
 
             ViewBag.TotalBookings = bookings.Count();
 
-            ViewBag.TotalRevenue =
-                bookings.Sum(b => b.TotalAmount);
+                ViewBag.TotalRevenue =
+                  bookings.Sum(b => b.TotalAmount);
 
-            ViewBag.SoldOutEvents =
-                events.Where(e => e.Status.Equals("Sold Out")).Count();
+             ViewBag.SoldOutEvents =
+                         events.Where(e => e.Status.Equals("Sold Out")).Count();
 
             return View();
         }
